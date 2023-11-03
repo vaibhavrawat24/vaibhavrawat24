@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavrawat24&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavrawat24" /> </p>
 
-- 🔭 I’m currently working on **Web related projects.**
+- 🔭 I’m currently working on **integrating machine learning into web projects.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, C++.**
+- 💬 Ask me about **React, JavaScript, Python, Django, C++.**
 
 - 📫 How to reach me **rawatvaibhav42@gmail.com**
 
